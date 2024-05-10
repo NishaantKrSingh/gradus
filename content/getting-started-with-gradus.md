@@ -1,11 +1,11 @@
 ---
-title: "Getting Started With Gradus"
-description: "This CodeLab demonstrates how to setup gradus for yourself"
-slug: "getting-started-with-gradus"
+title: "Discord chat bot with Gemini"
+description: "This CodeLab demonstrates how to make a Discord bot that used Gemini AI in the to reply to your messages."
+slug: ""
 authors:
   [
     {
-      name: "Vrijraj Singh",
+      name: "Nishant Singh",
       image: "/authors/vrijraj.jpeg",
       socials:
         {
@@ -30,7 +30,7 @@ categories: "Technology"
 duration: 30
 image: "/codelabs/getting-started-with-gradus/hero.png"
 tags: ["GRADUS"]
-draft: false
+draft: true
 ---
 
 # Introduction
